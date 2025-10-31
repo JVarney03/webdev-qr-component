@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This is the first of many project with the aim of developing my web development skills.
+This is the first of many projects with the aim of developing my web development skills.
 
 ### Screenshot
 
